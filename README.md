@@ -15,10 +15,10 @@ The complete architecture can be seen in the following graph:
 - Optimizer: SGD with 1e-3 learning rate
 - Number of epochs: 100
 
-# Training environment
+## Training environment
 - CPU: AMD Ryzen 5 7600
 - GPU: AMD RX 5700XT 
 - RAM: 16GB
 
-# Final Accuracy
+## Final Accuracy
 Testing: 98.42%
