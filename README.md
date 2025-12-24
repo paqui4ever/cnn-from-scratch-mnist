@@ -8,5 +8,5 @@ The model consists of two convolutional layers with ReLU activations, followed b
 
 The complete architecture can be seen in the following graph:
 
-![mnist_architecture_page-0001](https://github.com/user-attachments/assets/8a6ab728-f72f-4319-9d01-c2c06456b297)
 
+![mnist_architecture-2_page-0001](https://github.com/user-attachments/assets/6225a646-39e1-4dea-8d6e-f81b2eeffb67)
