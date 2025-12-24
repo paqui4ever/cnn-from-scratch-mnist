@@ -8,5 +8,17 @@ The model consists of two convolutional layers with ReLU activations, followed b
 
 The complete architecture can be seen in the following graph:
 
-
 ![mnist_architecture-2_page-0001](https://github.com/user-attachments/assets/6225a646-39e1-4dea-8d6e-f81b2eeffb67)
+
+## Training Details
+- Criterion: MSE Loss
+- Optimizer: SGD with 1e-3 learning rate
+- Number of epochs: 100
+
+# Training environment
+- CPU: AMD Ryzen 5 7600
+- GPU: AMD RX 5700XT 
+- RAM: 16GB
+
+# Final Accuracy
+Testing: 98.42%
